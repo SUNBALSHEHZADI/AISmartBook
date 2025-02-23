@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+PyMuPDF
+langchain
+docx2txt
+numpy
+accelerate>=0.26.0
